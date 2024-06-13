@@ -9,7 +9,7 @@ Este é um gerador de senha em Python que permite a criação de senhas seguras 
 A função `gerar_senha` é definida da seguinte forma:
 
 ```python
-def gerar_senha(segura=True, comprimento=12, incluir_maiusculas=True, incluir_minusculas=True, incluir_numeros=True, incluir_especiais=True):```
+def gerar_senha(segura=True, comprimento=12, incluir_maiusculas=True, incluir_minusculas=True, incluir_numeros=True, incluir_especiais=True):´´´
     # Implementação da função
 Parâmetros
 segura: Booleano que define se a senha gerada deve garantir a inclusão de pelo menos um caractere de cada tipo especificado.
